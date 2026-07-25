@@ -1,0 +1,17 @@
+{
+  "name": "incidentops-web",
+  "version": "1.0.0",
+  "description": "MVP de Gestión de Incidentes Críticos Multi-Tenant con Supabase y Power Automate",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.8"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0"
+  }
+}
